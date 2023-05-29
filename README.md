@@ -6,7 +6,7 @@ Programming Language: C#
 Framework: .NET
 
 
-<img align="left" alt="Project Skedule Logo" width="450"  src="https://github.com/takitajwar17/Project-Skedule-4.0/blob/main/Project-Skedule-4.0%20Source%20Code/Resources/Skedule-OOP%20Project%20Presentation.png">
+<img align="left" alt="Project Skedule Logo" width="500"  src="https://github.com/takitajwar17/Project-Skedule-4.0/blob/main/Project-Skedule-4.0%20Source%20Code/Resources/Skedule-OOP%20Project%20Presentation.png">
 
 ## Introduction
 
