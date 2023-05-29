@@ -5,9 +5,13 @@ Name: Skedule
 Programming Language: C#  
 Framework: .NET
 
+<img align="right" alt="Project Skedule Logo" width="500"  src="https://github.com/takitajwar17/Project-Skedule-4.0/blob/main/Project-Skedule-4.0%20Source%20Code/Resources/Skedule-OOP%20Project%20Presentation.png">
+
 ## Introduction
 
 Skedule is a desktop software built with C# using the .NET framework. It is designed to provide students with a centralized and organized platform for accessing information and updates related to their classes, homework, quizzes, and other academic activities. Skedule aims to streamline the process of obtaining essential information, eliminating the need to search through multiple platforms and saving valuable time for students.
+
+<br /> <br />
 
 ## Features
 
