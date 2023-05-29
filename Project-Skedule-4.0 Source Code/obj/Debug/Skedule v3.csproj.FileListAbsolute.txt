@@ -1,0 +1,12 @@
+E:\c SHARP\Skedule v3\bin\Debug\Skedule v3.exe.config
+E:\c SHARP\Skedule v3\bin\Debug\Skedule v3.exe
+E:\c SHARP\Skedule v3\bin\Debug\Skedule v3.pdb
+E:\c SHARP\Skedule v3\obj\Debug\Skedule v3.csproj.AssemblyReference.cache
+E:\c SHARP\Skedule v3\obj\Debug\Skedule v3.csproj.SuggestedBindingRedirects.cache
+E:\c SHARP\Skedule v3\obj\Debug\Skedule_v3.Dashboard.resources
+E:\c SHARP\Skedule v3\obj\Debug\Skedule_v3.Form1.resources
+E:\c SHARP\Skedule v3\obj\Debug\Skedule_v3.Properties.Resources.resources
+E:\c SHARP\Skedule v3\obj\Debug\Skedule v3.csproj.GenerateResource.cache
+E:\c SHARP\Skedule v3\obj\Debug\Skedule v3.csproj.CoreCompileInputs.cache
+E:\c SHARP\Skedule v3\obj\Debug\Skedule v3.exe
+E:\c SHARP\Skedule v3\obj\Debug\Skedule v3.pdb
