@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Skedule is a desktop software built with C# using the .NET framework. it is designed to provide students with a centralized and organized platform for accessing information and updates related to their classes, homework, quizzes, and other academic activities. Skedule aims to streamline the process of obtaining essential information, eliminating the need to search through multiple platforms and saving valuable time for students.
+Skedule is a desktop software designed to provide students with a centralized and organized platform for accessing information and updates related to their classes, homework, quizzes, and other academic activities. Skedule aims to streamline the process of obtaining essential information, eliminating the need to search through multiple platforms and saving valuable time for students.
 
 <br /> 
 
